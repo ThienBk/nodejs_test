@@ -1,0 +1,31 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThienBk/nodejs_test.git"
+  },
+  "keywords": [
+    "f8",
+    "test",
+    "nodejs"
+  ],
+  "author": "thienbk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThienBk/nodejs_test/issues"
+  },
+  "homepage": "https://github.com/ThienBk/nodejs_test#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
